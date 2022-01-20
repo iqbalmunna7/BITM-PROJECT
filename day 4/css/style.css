@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
 
@@ -21,13 +23,25 @@
 {
     float: left;
     border: 1px solid lightgray;
+
+}
+
+.heading{
+    color: #ff0000;
+}
+.heading:hover{
+    color: green;
 }
  .row:after{
      content:'' ;
      clear: both;
      display: block;
  }
-
+.container {
+    width: 90%;
+    height:  auto;
+    margin: 0 auto;
+}
 
 
 
