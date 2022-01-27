@@ -12,3 +12,8 @@
 .h-250{height:250px}
 .h-600{ height: 600px}
 .h-50{ height: 50px}
+
+
+.card-dafault-height{
+    height: 550px;
+}
