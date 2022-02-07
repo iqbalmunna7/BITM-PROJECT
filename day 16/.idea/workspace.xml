@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e22de94-7624-489f-8ead-dc8d1b195364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day 14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/.idea/day 14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/js/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 14/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/BITM-PROJECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BITM-PROJECT" beforeDir="false" afterPath="$PROJECT_DIR$/../BITM-PROJECT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day 8/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24lzKdzL9adYPjanChdmn2dMtA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New folder" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e22de94-7624-489f-8ead-dc8d1b195364" name="Default Changelist" comment="" />
+      <created>1644219898475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644219898475</updated>
+      <workItem from="1644219899772" duration="2543000" />
+      <workItem from="1644222479392" duration="36000" />
+      <workItem from="1644222517111" duration="8000" />
+      <workItem from="1644222597062" duration="11000" />
+      <workItem from="1644222609297" duration="48000" />
+      <workItem from="1644222710744" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" width="440" height="489" key="FileChooserDialogImpl" timestamp="1644222787844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" width="440" height="489" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644222787844" />
+  </component>
+</project>
